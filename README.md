@@ -1,5 +1,3 @@
-# Mitch028.github.io
-Web Work Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
